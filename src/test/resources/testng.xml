@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MtsBy Test Suite">
+    <test name="MtsBy Tests">
+        <classes>
+            <class name="by.mts.MtsByTests"/>
+        </classes>
+    </test>
+</suite>
